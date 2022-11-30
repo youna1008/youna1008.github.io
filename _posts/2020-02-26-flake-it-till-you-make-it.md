@@ -1,17 +1,20 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Start git with me 
+subtitle: git , github , gitblog
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Git의 특징 :
+Git은 로컬로 실행되는 소프트웨어입니다. 협업을 위한 tool로 사용되고 있습니다.또한 온라인 호스트(예: GitHub 또는 Bitbucket)를 사용하여 파일의 복사본과 해당 수정 기록을 저장할 수 있습니다. 변경사항을 업로드하고 다른 개발자의 변경사항을 다운로드할 수 있는 중앙 위치에 있으므로 다른 개발자와 더 쉽게 협업할 수 있습니다. Git은 자동으로 변경 사항을 병합할 수 있으므로 두 사람이 같은 파일의 다른 부분을 작업하고 나중에 서로의 작업을 잃지 않고 변경 사항을 병합할 수 있습니다. 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+git 에서 파일을 올리고 다운 받는 것에는 여러 명령어들이 있습니다. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+github 는 저장소입니다.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+jekyll는 정적 웹사이트 입니다.
+
+markdown 은 코드창에서 코드가 아닌 설명을 달 수 있습니다.

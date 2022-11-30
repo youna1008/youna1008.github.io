@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: google analytic 
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,7 +8,8 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+구글 analytics 을 적용하여 사용자 통계등 여러 기능해 사용해봅시다. 
+먼저 설치를 진행 후 , 튜토리얼을 보며 파일을 수정해서 완성시켜보세요! 
 
 **Here is some bold text**
 
